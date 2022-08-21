@@ -154,11 +154,11 @@ def intro():
             print("Det där var inte ett giltigt svar!")
             print("")
 
-intro()
+if __name__ == "main":
+    intro()
 
 
 # ATT FÖRBÄTTRA
-
 # Gör lower-case
 # Fixa en lista med ord
 # Gör så att inte funktionerna länkar till varandra

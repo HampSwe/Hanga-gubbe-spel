@@ -154,7 +154,7 @@ def intro():
             print("Det där var inte ett giltigt svar!")
             print("")
 
-if __name__ == "main":
+if __name__ == "__main__":
     intro()
 
 

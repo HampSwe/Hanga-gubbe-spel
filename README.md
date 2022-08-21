@@ -4,4 +4,4 @@ Du kan använda detta som inspiration - men koden är inte helt "pedagogiskt" sk
 
 ---
 
-This game was used as an example project in a Python course that I organized for kids.
+This game was used as an example project in a Python course that I organized.
